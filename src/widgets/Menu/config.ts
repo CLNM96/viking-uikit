@@ -51,15 +51,15 @@ export const links = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/VikingDefi/",
+        href: "https://github.com/wasabifinance/",
       },
       {
         label: "Docs",
-        href: "https://vikingswap.gitbook.io/viking-swap/",
+        href: "https://wasabifinance.gitbook.io/wasabi-finance/",
       },
       {
         label: "Blog",
-        href: "https://viking-swap.medium.com/",
+        href: "https://wasabi-finance.medium.com/",
       },
     ],
   },
@@ -72,18 +72,18 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "http://t.me/VikingSwap",
+        href: "http://t.me/wasabifinance",
       },
       {
         label: "Announcements",
-        href: "https://t.me/vikingswapannouncements",
+        href: "https://t.me/wasabifinanceann",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/vikingswap",
+    href: "https://twitter.com/wasabifinance",
   },
 ];
 
