@@ -1993,11 +1993,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.vikingswap.finance",
+                href: "https://wasasbi-amm.netlify.app",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.vikingswap.finance/#/pool",
+                href: "https://wassabi-amm.netlify.app/#/pool",
             },
         ],
     },
@@ -2034,11 +2034,11 @@ var links = [
         items: [
             {
                 label: "Github",
-                href: "https://github.com/wasabi-finance/",
+                href: "https://github.com/clnm96/wasabi-finance/",
             },
             {
                 label: "Docs",
-                href: "https://wasabifinance.gitbook.io/wasabi-finance/",
+                href: "https://wasabidefi.gitbook.io/wasabi-finance/",
             },
             {
                 label: "Blog",
@@ -2054,11 +2054,11 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "http://t.me/WasabiFinance",
+                href: "http://t.me/FinanceWasabi",
             },
             {
                 label: "Announcements",
-                href: "https://t.me/WasabiFinance",
+                href: "https://t.me/WasabiFinanceAnn",
             },
         ],
     },
@@ -2646,9 +2646,9 @@ var templateObject_1$K;
 
 var baseColors = {
     failure: "#ED4B9E",
-    primary: "#70ff86",
-    primaryBright: "#4fc957",
-    primaryDark: "#27ff6f",
+    primary: "#658e32",
+    primaryBright: "#81902b",
+    primaryDark: "#81902b",
     secondary: "#00c615",
     success: "#31D0AA",
     warning: "#FFB237",
@@ -2656,12 +2656,12 @@ var baseColors = {
 var brandColors = {
     binance: "#F0B90B",
 };
-var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#d7ffd2", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", tertiary: "#EFF4F5", text: '#3e692e', textDisabled: '#839984', textSubtle: '#388342', borderColor: "#005809", card: "#FFFFFF", gradients: {
+var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#d7ffd2", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", tertiary: "#EFF4F5", text: '#76b02a', textDisabled: '#839984', textSubtle: '#388342', borderColor: "#005809", card: "#FFFFFF", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
     } });
-var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#34be36", background: "#343135", backgroundDisabled: "#3c3742", contrast: "#FFFFFF", invertedContrast: "#191326", input: "#483f5a", 
+var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#80b02e", background: "#343135", backgroundDisabled: "#3c3742", contrast: "#FFFFFF", invertedContrast: "#191326", input: "#483f5a", 
     // primaryDark: "#0098A1",
-    tertiary: "#353547", text: "#3e692e", textDisabled: "#666171", textSubtle: "#c4d4c4", borderColor: "#005809", card: "#27262c", gradients: {
+    tertiary: "#353547", text: "#76b02a", textDisabled: "#666171", textSubtle: "#658e32", borderColor: "#005809", card: "#27262c", gradients: {
         bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
     } });
 
